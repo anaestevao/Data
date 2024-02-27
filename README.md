@@ -20,32 +20,25 @@ In this repository, you will find a diverse range of projects covering topics su
 
 Here's a brief overview of the projects included in this repository:
 
-1. **Data Analysis Project 1**
-   - Description: Analyze sales data to identify trends and patterns using Python and Pandas.
-   - Tools: Python, Pandas, Matplotlib
+1. **SQL**
+   - Description: Create and Query Portifolio Dataset and Project Table.
+   - Tools: SQL
 
-2. **Data Visualization Project 1**
-   - Description: Create interactive dashboards to visualize financial data using Tableau.
-   - Tools: Tableau, SQL
+2. **Data Analysis**
+   - Description: Analyze Churn data to identify trends and patterns using Python and Pandas.
+   - Tools: Python, Pandas
 
-3. **SQL Project 1**
-   - Description: Optimize database performance and write complex SQL queries to extract insights from large datasets.
-   - Tools: SQL, MySQL
-
-4. **Machine Learning Project 1**
-   - Description: Build predictive models to forecast stock prices using scikit-learn and Jupyter Notebook.
+3. **Machine Learning Project 1**
+   - Description: Build predictive models to Loan Elegibility prices using scikit-learn and Jupyter Notebook.
    - Tools: Python, scikit-learn, Jupyter Notebook
 
-5. **Data Cleaning Project 1**
-   - Description: Clean and preprocess messy data to prepare it for analysis using Python and Pandas.
-   - Tools: Python, Pandas
+
 
 ## Usage
 
-To explore the projects in this repository, simply navigate to the respective project folder and view the project files. Each project folder contains a README with detailed instructions on how to run the code and replicate the analysis.
+To explore the projects in this repository, simply navigate to the respective project folder and view the project files. E
 
-Feel free to explore the code, run the scripts, and provide feedback or suggestions for improvement. If you have any questions or would like to collaborate on a project, don't hesitate to reach out!
-
+Feel free to explore the code, run the scripts, and provide feedback or suggestions for improvement. 
 
 ## Contact
 
